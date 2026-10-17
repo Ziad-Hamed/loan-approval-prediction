@@ -1,0 +1,8 @@
+{
+    "best_parameters": {
+        "svc__C": 10,
+        "svc__gamma": 0.01,
+        "svc__kernel": "rbf"
+    },
+    "best_cv_macro_f1": 0.7111926558445646
+}
